@@ -1,2 +1,2 @@
 # yuba-repo
-learning passion for git by yuba
+I have written something to see the changes now. i wrote sth. before but now it is this. let us c
